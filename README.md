@@ -35,8 +35,7 @@ This project is a Python implementation of the popular Rock, Paper, Scissors gam
 
 ## Output
 
-![image](https://github.com/Janashree2004/Rock_Paper_Scissor-game/assets/142415775/aa89bce7-c036-4aff-93ca-16ae064b9fa0)
-
+![image](https://github.com/Janashree2004/Rock_Paper_Scissor_Game/assets/142415775/bf9c8a93-1cd0-4502-aad3-17a80893433a)
 
 ## Usage
 1. Run the game following the installation instructions.
@@ -49,4 +48,4 @@ This project is a Python implementation of the popular Rock, Paper, Scissors gam
 
 ## License
 
-Make sure to replace placeholders like `your-username` and customize it further based on the specifics of your project. Additionally, you may want to include sections like "Acknowledgements," "Troubleshooting," or any other relevant information depending on the complexity of your project.
+This project is licensed under the MIT License - see the LICENSE file for details.
