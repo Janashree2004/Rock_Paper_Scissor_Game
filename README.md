@@ -1,4 +1,4 @@
-# Rock_Paper_Scissor_game
+## Rock_Paper_Scissor_game
 
 Rock, Paper, Scissor game using Python
 
