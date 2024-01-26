@@ -31,16 +31,16 @@ if a>3 or a<0:
     print("Invalid user, You Lose.")
 else:
     print(n[a])
-    b=random.randint(0,3)
+    b=random.randint(0,2)
     print("Computer choice:")
     print(n[b])
     if a==b:
         print("It's A draw.")
-    elif a==0 and b==3:
-        print("You Win.")
-    elif a==3 and b==0:
+    elif a==0 and b==2:
         print("You Lose.")
+    elif a==2 and b==0:
+        print("You Win.")
     elif a>b:
-        print("You Win.")
-    elif a<b:
         print("You Lose.")
+    elif a<b:
+        print("You Win.")
