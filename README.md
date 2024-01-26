@@ -49,3 +49,4 @@ This project is a Python implementation of the popular Rock, Paper, Scissors gam
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+Feel free to modify and expand upon this template based on the specific needs and details of your project. Add or remove sections as necessary to provide comprehensive information for users and contributors.
